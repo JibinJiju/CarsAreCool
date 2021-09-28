@@ -1,12 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/JibinJiju/CarsAreCool/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Cars are fast, fun, and most importantly _COOL_
+Most people use cars to go from point A to B, but for others its a hobby and a passion and this website is for the latter. 
 
 ```markdown
 Syntax highlighted code block
